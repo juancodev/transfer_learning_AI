@@ -6,7 +6,7 @@ from transformers import pipeline
  ------------------------------------------Comments--------------------------------
 | - pipeline = Nos sirve para inferir en la mejor opción                           |
 | - crear variable de entorno para nuestro token generado en hugging face          |
-| -                                                                                |
+| - $export TOKEN_HUGGING_FACE="token"                                             |
 | -                                                                                |
 | -                                                                                |
 | -                                                                                |
